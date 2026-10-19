@@ -1,0 +1,162 @@
+{
+    "fr-in-war": {
+        "start-year": 1754,
+        "end-year": 1760,
+        "title": "French and Indian War",
+        "description": "The French and Indian war was the part of England’s Seven Years War that we had to fight. The French were unfortunately able to persuade the Indians to join them. Due to this, at the beginning, it didn’t seem in our favor, but in the <i>annus mirabilis</i> we were able to turn the tides in our favor, and soon after, we were able to defeat them..",
+        "who": "In the French and Indian war, the French and their nettlesome Indian allies tried to fight against our great colony as we fought in tandem with the Redcoats.",
+        "why": "The war started because the irritating French colonies repeatedly entered our colonial lands. They destroyed our houses, burned our crops, and held our family members hostage and ransomed them. After much patience, we finally fought back against these raiders, which eventually led to war.",
+        "result": "In the end, we pulled through and defeated the French. In the resulting treaty, we were granted great areas of land. Britain also had much debt from the war.",
+        "impact": "We also had fought for Britain, and our victories ultimately contributed to their greater victory, so we should’ve been treated with much respect. Britain thought that, since they sent a couple soldiers to fight alongside us, we should have to pay for the war. We also had much more land to expand and set up factories and other means of production."
+    },
+    "pon-rebel": {
+        "start-year": 1763,
+        "end-year": 1765,
+        "title": "Pontiac’s Rebellion",
+        "description": "In Pontiac’s Rebellion, a large collection of native tribes from our new lands attacked our forts. They were almost successful at destroying all of them. Britain barely helped at all.",
+        "who": "Pontiac was able to get lots of tribes from the lands we had obtained from the French to help him. According to mountvernon.org, the rebellion “represented an unprecedented pan-Indian resistance to European colonization in North America.”",
+        "why": "After the Seven Years War, we were given much land to expand to. Unfortunately, the French had good relations with the tribes living on our new lands, and they didn’t like us, so they pettily attacked us.",
+        "result": "In the end, the ruthless Indians destroyed all but 3 forts. The leaders of it did eventually sign treaties after they were captured.",
+        "impact": "The rebellion made the British do something to stop the Indians from doing more damage. It also forced us to respect them a little bit."
+    },
+    "proc-63": {
+        "start-year": 1763,
+        "end-year": 1763,
+        "title": "Proclamation of 1763",
+        "description": "The Proclamation of 1763 was an awful law that greatly restricted our land that we had fought for in the French and Indian War. This proclamation banned us from settling west of the Appalachian Mountains (basically everything we gained from the French and Indian War), even though some of us already had started.",
+        "who": "King George III made this proclamation. It only affected us colonists.",
+        "why": "After Pontiac’s Rebellion, England had to do something about the Indians. They created this abomination of a law as their answer.",
+        "result": "The result of all this being that all of our efforts in the war were for not. We couldn’t even access all that we had fought for.",
+        "impact": "This made us pretty angry at the crown. It also meant a big loss for those who had invested in those new lands."
+    },
+    "sugar-act": {
+        "start-year": 1764,
+        "end-year": 1766,
+        "title": "Sugar Act",
+        "description": "The Sugar Act was a tax that took away our agency by preventing us from trading with foreign countries. It was a way for Britain to extract money from us and further their mercantilistic goals. Unlike other previous trade taxes, this one had a special system for collection to minimize bribery.",
+        "who": "The British Parliament passed this act to limit our trading. It also impacts foreign countries that we may have traded with if it weren’t for this tax.",
+        "why": "After the Seven Years War, England was in tremendous debt, so they turned to us as a source of income. They thought we should pay for our protection, despite the fact that we fought with them.",
+        "result": "This act made it difficult for us to trade with anyone except England, and made us shout “No taxation without representation.”",
+        "impact": "This made us more angry at Britain. It also started the pattern of sending people to Britain for trial."
+    },
+    "stamp-act": {
+        "start-year": 1765,
+        "end-year": 1766,
+        "title": "Stamp Act (and protest)",
+        "description": "The Stamp Act required that every single paper product have a stamp on it that signified that you paid the tax. This act placed the tax on so many things including: legal documents, academic degrees, appointments to office, newspapers, pamphlets, playing cards, and dice.",
+        "who": "Parliament passed this act to draw money from us. The Sons of Liberty formed to fight back against the stamp act.",
+        "why": "After the Seven Years War, England was in a ton of debt. They decided that the best way to get out of debt was to put a ton of taxes on us.",
+        "result": "It caused us to get more concerned about the amount of taxes England was putting on us. It also caused the formation of groups to resist the taxes.",
+        "impact": "The Stamp Act caused much outrage among us. It also made us question if they would tax other even more important things."
+    },
+    "townshend-act": {
+        "start-year": 1767,
+        "end-year": 1770,
+        "title": "Townshend Acts",
+        "description": "This was a group of new taxes to further draw money from us. It taxed us on imported goods. Specifically, all imported paper, glass, lead, paint, and even tea.",
+        "who": "These were passed by Parliament for the 13 colonies. They most hurt Boston whose economy primarily relied on imports and exports.",
+        "why": "They were put in place to make money to pay Britain’s debt from the Seven Years War. After the Stamp Act failed, they decided not to tax internal goods, but to tax all the important things coming from England.",
+        "result": "These acts made lots of things more expensive in the colonies by taxing the imports of products it’s hard to manufacture ourselves. They also paid the salaries of the British officers and judges that helped oppress us.",
+        "impact": "This led to more hostility between the colonies and Britain. It also was the cause of the Boston Massacre 3 years later."
+    },
+    "bos-mass": {
+        "start-year": 1770,
+        "end-year": 1770,
+        "title": "Boston Massacre",
+        "description": "The Boston Massacre was a brutal killing of several unarmed citizens by the English troops quartered in Boston. It was a vivid display of British cruelty.",
+        "who": "The incident involved a group of Redcoats stationed in town. They attacked a group of innocent Bostonians who were around.",
+        "why": "A couple people were having some fun around a group of soldiers. One of the soldiers opened fire without orders and the others followed suit.",
+        "result": "A group of colonists were killed, and a few of the soldiers were put on trial. There was also a call by the governor to relocate the troops to outside of the city.",
+        "impact": "This horrible atrocity fueled much more anger towards England. This helped unite the colonies."
+    },
+    "coe-act": {
+        "start-year": 1774,
+        "end-year": 1799,
+        "title": "Intolerable Acts",
+        "description": "This was a collection of laws specifically to punish Boston and for England to assert its authority. It restricted our government, sent people on trial back to England, and allowed Britain to quarter armies in our towns.",
+        "who": "Parliament passed the Intolerable Acts specifically for the Boston colony. It was intended to punish them for the tea party.",
+        "why": "After we destroyed a little tea, Parliament passed these. They are in an attempt to punish us and set an example for the other colonies.",
+        "result": "The Boston Harbor was closed and it was pretty hard for Boston to do any trade. British soldiers were legally immune. There was large outrage in the colonies in Britain.",
+        "impact": "This all led to the first Continental Congress. And that eventually turned into revolution."
+    },
+    "comm-o-corr": {
+        "start-year": 1772,
+        "end-year": 1776,
+        "title": "Committees of Correspondence",
+        "description": "The Committees of Correspondence were a system that allowed rebels to communicate. It also allowed other people to stay up-to-date with the rebellion.",
+        "who": "Anyone anti-Britain could join, but it mostly was made up of elites and other people in positions of power. Loyalists were banned. Many of the people involved with the Committees of Correspondence were the people who went to the Continental Congress.",
+        "why": "After we were terrorized for years by England, people wanted to rebel. The Committees allowed them to rebel together, which is much more effective than many individual efforts.",
+        "result": "The Committees allowed people to work together to fight against Britain. It also allowed people to spread the word.",
+        "impact": "In time, the Committees led to the first Continental Congress. They were a key element leading to the revolution."
+    },
+    "tea-act": {
+        "start-year": 1773,
+        "end-year": 1799,
+        "title": "Tea Act",
+        "description": "The Tea Act was when the government absorbed the British East India Company (who made tea) and taxed it. Now, not only would our tea be taxed by the government, it would also be sold by the government.",
+        "who": "The Tea Act was passed by Parliament to assist the dying tea company by making it part of the government. It also affected merchants who resold tea.",
+        "why": "The East India Company was going out of business. Parliament recognised how important they were and decided that it would be bad if they went away.",
+        "result": "This act gave the government/East India Company a complete monopoly over tea. It also added another tax for just buying tea.",
+        "impact": "This caused us to boycott British tea and other goods. It also directly led to the Boston Tea Party."
+    },
+    "bos-tea-party": {
+        "start-year": 1773,
+        "end-year": 1773,
+        "title": "Boston Tea Party",
+        "description": "To protest the Tea Act, colonists dressed as native americans and climbed aboard a shipment of tea. They threw some of the tea overboard to send a message, but they didn’t harm anything other than the tea.",
+        "who": "It was done by around 50-60 colonists from Boston. They believed that destroying the tea would send a message to Parliament, and the Tea Act would be repealed.",
+        "why": "Many colonists were upset by the taxes introduced by the Tea Act. In response, the colonies boycotted British tea. This was one step further in that endeavor.",
+        "result": "They destroyed 342 chests of tea (which in today's money is over $1.7M of tea) which would’ve been sold or sent back to England to be sold there. This made England shut down Boston’s port.",
+        "impact": "Parliament passed the Intolerable Acts to punish Boston for their bit of fun. This also was one of the first big acts of rebellion against British rule for the colonies."
+    },
+    "bat-lex-a-con": {
+        "start-year": 1775,
+        "end-year": 1775,
+        "title": "Battles of Lexington and Concord",
+        "description": "This was the first battles against Britain for our independence. They lasted only one day, on April 19th.",
+        "who": "These fights were the Redcoats vs the patriots. They actually happened in a couple different places, not just Lexington and Concord.",
+        "why": "After the Intolerable Acts, the resistance grew, and they gathered a bunch of weapons. The Redcoats didn’t like that, so they sent an army to destroy it. Unfortunately for them, the colonists had heard of their plans.",
+        "result": "The colonists won against all odds. Under 50 patriots died in the battle, and we forced the Redcoats to retreat.",
+        "impact": "This is very significant in the revolution. It destroyed the idea that the colonists couldn’t defeat the British. It also kickstarted the war."
+    },
+    "sec-cc": {
+        "start-year": 1775,
+        "end-year": 1781,
+        "title": "Second Continental Congress",
+        "description": "This was a collection of our greatest leaders. In this Congress, they tried to make peace with Britain. When that didn’t work, they declared our independence.",
+        "who": "There were delegates from all thirteen colonies. Notable members include Thomas Jefferson, Benjamin Franklin, John Adams, and George Washington.",
+        "why": "After war broke out, the leaders of the colonies wanted to get some control over it. Some of them wanted to fight together and win independence while others wanted to regain peace with Britain.",
+        "result": "They attempted to extend an olive branch to England, but that was ignored. Finally, they wrote and signed the Declaration of Independence.",
+        "impact": "They declared our independence and united the colonies. Without the 2nd Continental Congress, we may have lost against Britain and there would be no United States. This could have insane ripple effects."
+    },
+    "olv-brn-pet": {
+        "start-year": 1775,
+        "end-year": 1775,
+        "title": "Olive Branch Petition",
+        "description": "The Olive Branch Petition was a collection of reasonable requests of Britain that, if fulfilled, would allow them to return to peace. They just wanted Parliament to cease hostilities and repeal the Intolerable Acts.",
+        "who": "John Dickinson was the primary author, but it was reviewed by many members of the Second Continental Congress. It was sent overseas to King George III.",
+        "why": "In the 2nd Continental Congress, not all members wanted independence. They decided that they would try to extend an offering of peace before announcing independence.",
+        "result": "It was reported back to the colonies that the king never even considered the petition as he had already declared his Proclamation of Rebellion. Therefore, the Continental Congress went to the plan B of independence.",
+        "impact": "The king’s refusal of the Olive Branch Petition silenced people who thought the colonies could just make peace with Britain. It revealed that they were in too deep to back out and they had to go independent."
+    },
+    "com-sen": {
+        "start-year": 1776,
+        "end-year": 1776,
+        "title": "Common Sense",
+        "description": "In his pamphlet, Thomas Paine gave his arguments for why we should obviously be an independent country. Among his arguments was that it was absurd for a little island across an ocean to rule an entire continent and that we were being ruled by a government that didn’t even give us representation in the government.",
+        "who": "Thomas Paine wrote Common Sense with consulting from Benjamin Rush. It was published by Robert Bell. Paine targeted regular citizens who may be undecided on the matter of independence.",
+        "why": "Paine moved to the colonies in 1774. He wrote the “book” to explain why it only made sense for us to be independent.",
+        "result": "Paine wrote an instant best seller. He is believed to have sold 500,000 copies, spreading his message far and wide.",
+        "impact": "His book changed the views of many people. It likely inspired many ideas that went into the declaration of independence."
+    },
+    "dec-o-indpdc": {
+        "start-year": 1776,
+        "end-year": 1776,
+        "title": "Declaration of Independence",
+        "description": "The Declaration of Independence is a document written by our finest minds declaring us independent from Britain. It consists of the introduction, the issues with us remaining a part of Britain, and our glorious announcement of independence.",
+        "who": "The Declaration was mainly written by Jefferson, but it was edited by a Committee of Five. The final draft was approved by the Continental Congress on July 4th. It was then widely sent around.",
+        "why": "After the Proclamation of 1763, the Sugar Act, the Stamp Act, the Townshend Act, the Boston Massacre, the Intolerable Acts, Tea Act, the existing war, the failure of the Olive Branch Petition, and the ideas of independence spread around the colonies, we were done with Britain. Our best choice was Independence, so that's what our greatest leaders announced.",
+        "result": "The Declaration of Independence separated the colonies from Britain and put us at full on war with them. It also united the military of the colonies.",
+        "impact": "This document set the ideals of our country which reflect in later documents like the Constitution or the Bill of Rights. It was also one of the first revolutions like it, setting the standard for France, Haiti, and more."
+    }
+}
