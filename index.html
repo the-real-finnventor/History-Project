@@ -9,19 +9,21 @@
     <body>
         <br>
         <div class="container">
-            <div class="d-flex justify-content-end align-items-end fixed-top m-4">
-                <h1 id="year" class="border border-primary p-1 rounded border-5">1760</h1>
-            </div>
 
             <div class="d-flex flex-wrap gap-3" id="cards"></div>
             <br><br><br>
             
-            <div class="d-flex fixed-bottom justify-content-center align-items-center gap-5 mb-4">
-                <button type="button" class="btn btn-secondary" id="timeline-back" onclick="decrease_year();">&larr;</button>
-                <div class="progress" style="width: 75%;">
-                    <div class="progress-bar" role="progressbar" id="timeline_bar" style="width: 0%;"></div>
+            <div class="d-flex fixed-bottom flex-column">
+                <div class="justify-content-end align-items-end m-4 d-flex">
+                    <h1 id="year" class="border border-primary p-1 rounded border-5 me-5">1760</h1>
                 </div>
-                <button type="button" id="timeline-forward" class="btn btn-secondary" onclick="increase_year();">&rarr;</button>
+                <div class="justify-content-center align-items-center gap-5 mb-4 d-flex">
+                    <button type="button" class="btn btn-secondary" id="timeline-back" onclick="decrease_year();">&larr;</button>
+                    <div class="progress" style="width: 75%;">
+                        <div class="progress-bar" role="progressbar" id="timeline_bar" style="width: 0%;"></div>
+                    </div>
+                    <button type="button" id="timeline-forward" class="btn btn-secondary" onclick="increase_year();">&rarr;</button>
+                </div>
             </div>
         </div>
     </body>
